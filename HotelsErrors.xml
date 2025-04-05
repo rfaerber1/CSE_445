@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Hotel xmlns="http://venus.sod.asu.edu/WSRepository/xml/">
+<Hotel>
 	<Hotel>
 		<Name>Westin</Name>
 		<Name>Holiday Inn</Name>
