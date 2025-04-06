@@ -14,4 +14,116 @@
 		</Address>
 		<Rating>4.2</Rating>
 	</Hotel>
+	<Hotel>
+		<Name>Marriott</Name>
+		<Phone>602-225-9000</Phone>
+		<Address>
+			<Number>2000</Number>
+			<Street>W Westcourt Way</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85282</Zip>
+			<NearstAirport>Sky Habor</NearstAirport>
+		</Address>
+		<Rating>4.3</Rating>
+	</Hotel>
+	<Hotel>
+		<Name>Holiday Inn</Name>
+		<Phone>480-831-9800</Phone>
+		<Phone>888-465-4329</Phone>
+		<Address>
+			<Number>1520</Number>
+			<Street>West Baseline Road</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85283</Zip>
+			<NearstAirport>Sky Habor</NearstAirport>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Residence Inn</Name>
+		<Phone>480-967-23005</Phone>
+		<Address>
+			<Number>510</Number>
+			<Street>S. Forest Ave</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+			<NearstAirport>Sky Habor</NearstAirport>
+		</Address>
+		<Rating>4.5</Rating>
+	</Hotel>
+	<Hotel>
+		<Name>University Inn</Name>
+		<Phone>480-96-7221</Phone>
+		<Address>
+			<Number>902</Number>
+			<Street>S Mill Ave</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+			<NearstAirport>Sky Habor</NearstAirport>
+		</Address>
+		<Rating>4.4</Rating>
+	</Hotel>
+	<Hotel>
+		<Name>Graduate</Name>
+		<Phone>480-967-9431</Phone>
+		<Address>
+			<Number>225</Number>
+			<Street>E. Apache Blvd</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+			<NearstAirport>Sky Habor</NearstAirport>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Motel 6</Name>
+		<Phone>480-967-8696</Phone>
+		<Address>
+			<Number>513</Number>
+			<Street>W. Broadway Rd</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85282</Zip>
+			<NearstAirport>Sky Habor</NearstAirport>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Hyatt Place</Name>
+		<Phone>480-207-1578</Phone>
+		<Address>
+			<Number>601</Number>
+			<Street>E. 6th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+			<NearstAirport>Sky Habor</NearstAirport>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>AC Hotel</Name>
+		<Phone>480-642-61405</Phone>
+		<Address>
+			<Number>100</Number>
+			<Street>E. Rio Salado Pkwy</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+			<NearstAirport>Sky Habor</NearstAirport>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Sonesta</Name>
+		<Phone>480-966-2800</Phone>
+		<Address>
+			<Number>601</Number>
+			<Street>S. Ash Ave</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+			<NearstAirport>Sky Habor</NearstAirport>
+		</Address>
+	</Hotel>
 </Hotels>
