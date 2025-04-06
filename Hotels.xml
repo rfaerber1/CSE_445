@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Hotels>
+<Hotels xsi:schemaLocation="https://rfaerber1.github.io/CSE_445/Hotels.xsd">
 	<Hotel>
 		<Name>Westin</Name>
 		<Phone>480-968-8885</Phone>
