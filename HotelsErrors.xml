@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Hotel 
+	xmlns="https://rfaerber1.github.io/CSE_445"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="https://rfaerber1.github.io/CSE_445/Hotels.xsd">
 	<Hotel>
