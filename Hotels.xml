@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8">
 <Hotels 
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="https://rfaerber1.github.io/CSE_445/Hotels.xsd">
@@ -11,7 +12,7 @@
 			<City>Tempe</City>
 			<State>AZ</State>
 			<Zip>85281</Zip>
-			<NearstAirport>Sky Harbor</NearstAirport>
+			<NearstAirport>Sky Habor</NearstAirport>
 		</Address>
 		<Rating>4.2</Rating>
 	</Hotel>
