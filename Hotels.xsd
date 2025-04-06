@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+xmlns="https://rfaerber1.github.io/CSE_445" 
+targetNamespace="https://rfaerber1.github.io/CSE_445"
 elementFormDefault="qualified" attributeFormDefault="unqualified">
 	<xsd:element name="Hotels">
 		<xsd:complexType>
@@ -30,61 +32,4 @@ elementFormDefault="qualified" attributeFormDefault="unqualified">
 			</xsd:sequence>
 		</xsd:complexType>
 	</xsd:element>
-	<!--<xsd:element name="Bookstore">
-		<xsd:complexType>
-			<xsd:sequence>
-				<xsd:element name="Book" minOccurs="1" maxOccurs="unbounded"/>
-			</xsd:sequence>
-		</xsd:complexType>
-	</xsd:element>
-	<xsd:element name="Book">
-		<xsd:complexType>
-			<xsd:sequence>
-				<xsd:element name="Title" type="xsd:string" minOccurs="1" maxOccurs="1"/>
-				<xsd:element name="Author" type="xsd:string" minOccurs="1" maxOccurs="unbounded"/>
-				<xsd:element name="Year" type="xsd:string" minOccurs="0" maxOccurs="1"/>
-				<xsd:element name="ISBN" type="xsd:string" minOccurs="0" maxOccurs="1"/>
-			</xsd:sequence>
-		</xsd:complexType>
-	</xsd:element>
-	<xsd:element name="First" type="xsd:string"/>
-	<xsd:element name="Last" type="xsd:string"/>
-	<xsd:element name="Size" type="xsd:string"/>-->
 </xsd:schema>
-
-<!--
-<?xml version="1.0" encoding="UTF-8"?>
-<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-targetNamespace= "http://venus.sod.asu.edu/WSRepository/xml/"
-elementFormDefault="qualified" attributeFormDefault="unqualified">
-    <xsd:element name="Hotels">
-        <xsd:complexType>
-		    <xsd:sequence>
-                <xsd:element name="Hotel" minOccurs="1" maxOccurs="unbounded"/>
-            </xsd:sequence>
-		</xsd:complexType>
-    </xsd:element>
-    <xsd:element name="Hotel">
-        <xsd:complexType>
-            <xsd:sequence>
-                <xsd:element name="Name" type="xsd:string" minOccurs="1" maxOccurs="1"/>
-                <xsd:element name="Phone" type="xsd:string" minOccurs="1" maxOccurs="1"/>
-                <xsd:element name="Address" minOccurs="1" maxOccurs="1"/>
-                <xsd:element name="Rating" type="xsd:string" minOccurs="0" maxOccurs="1"/>
-            </xsd:sequence>
-        </xsd:complexType>
-    </xsd:element>
-    <xsd:element name="Address">
-        <xsd:complexType>
-            <xsd:sequence>
-                <xsd:element name="Number" type="xsd:string" minOccurs="1" maxOccurs="1"/>
-                <xsd:element name="Street" type="xsd:string" minOccurs="1" maxOccurs="1"/>
-                <xsd:element name="City" type="xsd:string" minOccurs="1" maxOccurs="1"/>
-                <xsd:element name="State" type="xsd:string" minOccurs="1" maxOccurs="1"/>
-                <xsd:element name="Zip" type="xsd:string" minOccurs="1" maxOccurs="1"/>
-                <xsd:element name="NearstAirport" type="xsd:string" minOccurs="1" maxOccurs="1"/>
-            </xsd:sequence>
-        </xsd:complexType>
-    </xsd:element>
-</xsd:schema>
--->
