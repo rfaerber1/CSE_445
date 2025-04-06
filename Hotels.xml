@@ -1,6 +1,5 @@
 <Hotels 
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="https://rfaerber1.github.io/CSE_445/Hotels.xsd">
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<Hotel>
 		<Name>Westin</Name>
 		<Phone>480-968-8885</Phone>
